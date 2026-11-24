@@ -21,6 +21,6 @@ The [ChatGPT Sites gallery](../chatgpt-sites-portfolio/README.md) records the wo
 - **Delivery status** comes from the website tracker.
 - **Public availability** is a point-in-time check of the pages listed above.
 - **Visitor journeys** describe visible navigation and actions. Enquiry submissions, authenticated portal access, and downstream lead delivery are outside this review.
-- **Performance and business outcomes** require dated measurements. The portfolio currently records qualitative website evidence. Search rankings, traffic, conversions, and performance scores remain unverified.
+- **Performance and business outcomes** require dated measurements. The portfolio currently records qualitative website evidence. The [Google Search visibility page](../google-search-visibility/README.md) summarizes tracker observations. Search Console rankings, traffic, conversions, and performance scores remain unverified.
 
 [Back to the portfolio](../README.md)

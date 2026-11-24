@@ -4,7 +4,7 @@
 
 I developed websites for Zenith Group across property development, investment, and broker collaboration. The case studies and ChatGPT Sites gallery show how I turn business requirements into public websites with clear navigation and enquiry paths.
 
-[Featured case studies](#featured-case-studies) · [ChatGPT Sites gallery](chatgpt-sites-portfolio/README.md) · [Program scope](website-index/README.md) · [Evidence and verification](evidence/README.md)
+[Featured case studies](#featured-case-studies) · [ChatGPT Sites gallery](chatgpt-sites-portfolio/README.md) · [Google Search visibility](google-search-visibility/README.md) · [Program scope](website-index/README.md) · [Evidence and verification](evidence/README.md)
 
 ## Program at a glance
 
@@ -29,6 +29,10 @@ The figures come from the Zenith website tracker. All five featured homepages re
 The workspace lists **156 site projects**, including variants, and **135 active projects listed as public with a live URL**. The gallery shows 11 public websites with screenshots and live links, including five visitor walkthroughs.
 
 [Explore the ChatGPT Sites gallery](chatgpt-sites-portfolio/README.md)
+
+## Google Search visibility
+
+The SEO tracker contains **70 unique domains with a recorded search position**. The [Google Search visibility page](google-search-visibility/README.md) explains how the count was calculated and how to verify positions in Search Console.
 
 ## Start with the joint venture project
 
