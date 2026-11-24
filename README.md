@@ -2,9 +2,9 @@
 
 **Dubai real estate websites · Multi-site delivery · Customer and partner journeys**
 
-I developed websites for Zenith Group across property development, investment, and broker collaboration. This portfolio presents five examples of how I turn business requirements into public websites with clear navigation and enquiry paths.
+I developed websites for Zenith Group across property development, investment, and broker collaboration. The case studies and ChatGPT Sites gallery show how I turn business requirements into public websites with clear navigation and enquiry paths.
 
-[Featured case studies](#featured-case-studies) · [Program scope](website-index/README.md) · [Evidence and verification](evidence/README.md)
+[Featured case studies](#featured-case-studies) · [ChatGPT Sites gallery](chatgpt-sites-portfolio/README.md) · [Program scope](website-index/README.md) · [Evidence and verification](evidence/README.md)
 
 ## Program at a glance
 
@@ -23,6 +23,12 @@ The figures come from the Zenith website tracker. All five featured homepages re
 | **Dubai Real Estate Co-Broker** | Broker onboarding and enquiry design | [Case study](case-studies/03-broker-collaboration/README.md) · [Live site](https://cobrokerrealestatedubai.com/) |
 | **Invest in Dubai Property** | Investor education and offers navigation | [Case study](case-studies/04-dubai-property-investment/README.md) · [Live site](https://investindubaiproperty.net/) |
 | **Dubai Pooled Investment** | Specialized campaign and cross-site navigation | [Case study](case-studies/05-pooled-investment/README.md) · [Live site](https://dubaipooledinvestment.com/) |
+
+## ChatGPT Sites portfolio
+
+The workspace lists **156 site projects**, including variants, and **135 active projects listed as public with a live URL**. The gallery documents five selected builds with screenshots, live links, and visitor workflows.
+
+[Explore the ChatGPT Sites gallery](chatgpt-sites-portfolio/README.md)
 
 ## Start with the joint venture project
 

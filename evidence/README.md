@@ -12,6 +12,10 @@ Checked on **24 November 2026** using public HTTPS GET requests. Each featured h
 | [Invest in Dubai Property](../case-studies/04-dubai-property-investment/README.md) | [Home](https://investindubaiproperty.net/) | [Read the property investment guide](https://investindubaiproperty.net/dubai-property-investment/) · [Browse current offers](https://investindubaiproperty.net/current-offers/) |
 | [Dubai Pooled Investment](../case-studies/05-pooled-investment/README.md) | [Home](https://dubaipooledinvestment.com/) | [Open the pooled-investment guide](https://dubaipooledinvestment.com/what-is-pool-investment/) · [Browse pooled-investment offers](https://dubaipooledinvestment.com/dubai-pooled-investment-offers/) |
 
+## ChatGPT Sites evidence
+
+The [ChatGPT Sites gallery](../chatgpt-sites-portfolio/README.md) records the workspace project counts, screenshots, and five public homepage checks. Workspace counts and the Zenith domain tracker have different scopes and may overlap.
+
 ## How to interpret the results
 
 - **Delivery status** comes from the website tracker.

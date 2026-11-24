@@ -24,6 +24,10 @@ The homepage includes partnership guidance, partner and property enquiry options
 
 **Review question:** Can a new partner find the enquiry section while an existing agent can see a distinct portal link?
 
+## Related ChatGPT Sites build
+
+The [CoBroker entry in the ChatGPT Sites gallery](../../chatgpt-sites-portfolio/README.md#cobroker-real-estate-dubai) shows the public homepage of the ChatGPT Sites build and its broker onboarding route.
+
 ## Delivery and evidence
 
 The tracker marks this website **Completed** under **Real Estate Collaboration**. The public homepage was reachable on 24 November 2026. The [verification log](../../evidence/README.md) explains the scope of the check.
