@@ -38,11 +38,15 @@ The captures document the public interface and visible navigation. Enquiry deliv
 
 The [ChatGPT Sites gallery](../chatgpt-sites-portfolio/README.md) records the workspace project counts, screenshots, and 11 public homepage checks. Workspace counts and the Zenith domain tracker have different scopes and may overlap.
 
+## Google Search Console evidence
+
+The [Dubai Property Development case study](../case-studies/02-property-development/README.md#google-search-console-result) includes the six-month Web Search report screenshot, site-wide metrics, and search-query figures.
+
 ## How to interpret the results
 
 - **Delivery status** comes from the website tracker.
 - **Public availability** is a point-in-time check of the pages listed above.
 - **Visitor journeys** describe visible navigation and actions. Enquiry submissions, authenticated portal access, and downstream lead delivery are outside this review.
-- **Performance and business outcomes** require dated measurements. The portfolio currently records qualitative website evidence. The [Google Search visibility page](../google-search-visibility/README.md) summarizes tracker observations. Search Console rankings, traffic, conversions, and performance scores remain unverified.
+- **Performance and business outcomes** require dated measurements. The portfolio currently records qualitative website evidence. The [Google Search visibility page](../google-search-visibility/README.md) summarizes tracker observations. The Dubai Property Development screenshot supports the site-wide Search Console figures shown in its case study. Conversions and performance scores require separate evidence.
 
 [Back to the portfolio](../README.md)

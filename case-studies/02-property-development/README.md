@@ -30,6 +30,27 @@ The homepage presents separate agency and investor entry points. The main menu a
 
 **Review question:** Can an agency reach its dedicated page directly from the homepage, and can an investor identify a separate route?
 
+## Google Search Console result
+
+The **six-month Google Web Search report** for `https://dubaipropertydevelopment.com/`, captured on **24 November 2026**, shows the following property-wide results.
+
+| Metric | Reported value |
+| --- | ---: |
+| Total clicks | 1.48K |
+| Total impressions | 311K |
+| Average click-through rate | 0.5% |
+| Average position | 28.4 |
+
+| Search query | Clicks | Impressions |
+| --- | ---: | ---: |
+| top 50 real estate developers in dubai | 121 | 820 |
+| top 20 developers in uae | 65 | 1,393 |
+| top 50 developers in dubai | 36 | 216 |
+
+[![Google Search Console report showing six-month property totals and leading search queries](../../evidence/screenshots/dubai-property-development-search-console.webp)](../../evidence/screenshots/dubai-property-development-search-console.webp)
+
+Totals use the rounded figures shown in Search Console. The query rows cover the property as a whole. The capture does not show a landing-page filter or query-level average position.
+
 ## Delivery and evidence
 
 The tracker marks this website **Completed** under **Development Service**. The public homepage was reachable on 24 November 2026. The [verification log](../../evidence/README.md) explains the scope of the check.
