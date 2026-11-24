@@ -32,24 +32,22 @@ The homepage presents separate agency and investor entry points. The main menu a
 
 ## Google Search Console result
 
-The **six-month Google Web Search report** for `https://dubaipropertydevelopment.com/`, captured on **24 November 2026**, shows the following property-wide results.
+Dubai Property Development recorded **4,097 clicks and 874,403 impressions** in Google Web Search. The export dated **24 November 2026** covers **22 July 2025 to 21 November 2026**.
 
-| Metric | Reported value |
-| --- | ---: |
-| Total clicks | 1.48K |
-| Total impressions | 311K |
-| Average click-through rate | 0.5% |
-| Average position | 28.4 |
+| Scope | Search evidence | Clicks | Impressions | CTR | Avg. position |
+| --- | --- | ---: | ---: | ---: | ---: |
+| Property | `https://dubaipropertydevelopment.com/` | 4,097 | 874,403 | 0.47% | ~20.7 |
+| Country | United Arab Emirates | 2,352 | 423,979 | 0.55% | 32.31 |
+| Query | “top 50 real estate developers in dubai” | 186 | 1,373 | 13.55% | 2.73 |
+| Landing page | [Top 50 Property Developers in Dubai](https://dubaipropertydevelopment.com/top-50-property-developers-in-dubai/) | 854 | 68,740 | 1.24% | 19.08 |
 
-| Search query | Clicks | Impressions |
-| --- | ---: | ---: |
-| top 50 real estate developers in dubai | 121 | 820 |
-| top 20 developers in uae | 65 | 1,393 |
-| top 50 developers in dubai | 36 | 216 |
+The property totals use the daily Chart tab. Property CTR is calculated from total clicks and impressions. Property average position is estimated by weighting the rounded daily positions by impressions. The query figures cover all pages within the property, and the landing-page figures cover all queries for that page. A page-filtered query report would establish performance for the specific query and page together.
 
-[![Google Search Console report showing six-month property totals and leading search queries](../../evidence/screenshots/dubai-property-development-search-console.webp)](../../evidence/screenshots/dubai-property-development-search-console.webp)
+### Six-month screenshot
 
-Totals use the rounded figures shown in Search Console. The query rows cover the property as a whole. The capture does not show a landing-page filter or query-level average position.
+The six-month view captured on **24 November 2026** shows rounded property totals of **1.48K clicks**, **311K impressions**, **0.5% CTR**, and **28.4 average position**.
+
+[![Google Search Console six-month property totals and queries](../../evidence/screenshots/dubai-property-development-search-console.webp)](../../evidence/screenshots/dubai-property-development-search-console.webp)
 
 ## Delivery and evidence
 

@@ -14,7 +14,7 @@ The source heading says 78 domains ranked. A count of the supplied rows yields 7
 
 ## Search Console evidence for a featured site
 
-[Dubai Property Development](../case-studies/02-property-development/README.md#google-search-console-result) recorded **1.48K clicks** and **311K impressions** in the six-month Google Web Search view captured on **24 November 2026**. The case study includes the report screenshot and query-level clicks and impressions.
+[Dubai Property Development](../case-studies/02-property-development/README.md#google-search-console-result) recorded **4,097 clicks** and **874,403 impressions** in Google Web Search from **22 July 2025 to 21 November 2026**. The case study documents the property totals, UAE figures, query and landing-page metrics, and the six-month dashboard screenshot.
 
 ## Examples from the tracker
 
