@@ -40,7 +40,7 @@ The workspace lists **156 site projects**, including variants, and **135 active 
 
 [Zenith Developer](google-search-visibility/README.md#zenith-developer) recorded **1,061 clicks and 84,366 impressions** in Google Web Search from **22 August to 21 November 2026**. The evidence includes the workbook figures and a six-month dashboard screenshot.
 
-The SEO tracker contains **70 unique domains with a recorded search position**. The [Google Search visibility page](google-search-visibility/README.md) explains how the count was calculated and how to verify positions in Search Console.
+The [website ranking catalog](google-search-visibility/website-ranking-catalog.md) covers **91 tracker entries across 77 unique domains**, with recorded positions for **70 domains**. The [Google Search visibility page](google-search-visibility/README.md) links to Search Console evidence for two websites.
 
 ## Start with the joint venture project
 

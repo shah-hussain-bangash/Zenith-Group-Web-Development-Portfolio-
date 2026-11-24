@@ -12,6 +12,8 @@ I tracked Google Search visibility across Zenith's property and investment websi
 
 The source heading says 78 domains ranked. A count of the supplied rows yields 70 unique domains with a position. The count normalizes domain case and whitespace and combines repeated domains. The tracker does not include the search query, date range, country, or device for its position entries, so the values are historical tracker observations with unknown measurement scope.
 
+[View the website ranking catalog](website-ranking-catalog.md) for all 91 tracker entries, grouped by domain, and links to Search Console proof.
+
 ## Search Console evidence for a featured site
 
 [Dubai Property Development](../case-studies/02-property-development/README.md#google-search-console-result) recorded **4,097 clicks** and **874,403 impressions** in Google Web Search from **22 July 2025 to 21 November 2026**. The case study documents the property totals, UAE figures, query and landing-page metrics, and the six-month dashboard screenshot.
