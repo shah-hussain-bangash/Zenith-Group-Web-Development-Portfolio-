@@ -2,9 +2,9 @@
 
 **AI-assisted website delivery for Zenith Group**
 
-I used ChatGPT Sites to build Dubai real estate websites and site variants for buyers, investors, agencies, and brokers. These five examples show how I structured public content around distinct audiences, from agency onboarding to property comparison and enquiry design.
+I used ChatGPT Sites to build Dubai real estate websites and site variants for buyers, investors, agencies, and brokers. These examples show how I structured public content around distinct audiences, from agency onboarding to property comparison and enquiry design.
 
-[Back to the Zenith portfolio](../README.md) · [Evidence and verification](../evidence/README.md)
+[Featured builds](#featured-builds) · [More website screenshots](#more-website-screenshots) · [Back to the Zenith portfolio](../README.md)
 
 ## Workspace snapshot
 
@@ -54,8 +54,18 @@ Review how the site connects market information and investment opportunities to 
 
 [![Dubai Real Estate Investment Trends 2026 homepage](assets/market-trends-2026.webp)](https://dubai-real-estate-investment-trends-2026.zenithdevelo-8780.chatgpt.site/)
 
+## More website screenshots
+
+Select a screenshot to visit the public site.
+
+| Website | Website |
+| --- | --- |
+| [![Top Design Consultancy Dubai homepage](assets/design-consultancy.webp)](https://top-design-consultancy-dubai-replica.zenithdevelo-8780.chatgpt.site/)<br>**[Top Design Consultancy Dubai](https://top-design-consultancy-dubai-replica.zenithdevelo-8780.chatgpt.site/)**<br>Architecture consultancy directory | [![Property Investment JV homepage](assets/property-joint-venture.webp)](https://www.propertyinvestmentjv.com/)<br>**[Property Investment JV](https://www.propertyinvestmentjv.com/)**<br>Partner education and enquiry |
+| [![Alternative to Off Plan Dubai homepage](assets/alternative-to-off-plan.webp)](https://www.alternativetooffplandubai.com/)<br>**[Alternative to Off Plan Dubai](https://www.alternativetooffplandubai.com/)**<br>Ready and resale property options | [![Dubai Pool Investment homepage](assets/pooled-investment.webp)](https://pool-property-replica.zenithdevelo-8780.chatgpt.site/)<br>**[Dubai Pool Investment](https://pool-property-replica.zenithdevelo-8780.chatgpt.site/)**<br>Pooled investment offers |
+| [![Dubai Real Estate Commission homepage](assets/agent-commission.webp)](https://dubai-real-estate-commission.zenithdevelo-8780.chatgpt.site/)<br>**[Dubai Real Estate Commission](https://dubai-real-estate-commission.zenithdevelo-8780.chatgpt.site/)**<br>Broker fee guide | [![Wholesale Property in Dubai homepage](assets/wholesale-property.webp)](https://www.wholesalepropertyindubai.com/)<br>**[Wholesale Property in Dubai](https://www.wholesalepropertyindubai.com/)**<br>Bulk property acquisition guide |
+
 ## Verification
 
-All five featured homepages returned HTTP 200 on **24 November 2026** without signing in. The walkthroughs describe visible pages and actions. Screenshots are workspace captures for the featured projects. Form delivery, authenticated workflows, search rankings, and conversion results are outside the scope of these checks.
+All 11 homepages shown here returned HTTP 200 on **24 November 2026** without signing in. The walkthroughs describe visible pages and actions. Screenshots are workspace captures for the projects shown. Form delivery, authenticated workflows, search rankings, and conversion results are outside the scope of these checks.
 
 [Back to the Zenith portfolio](../README.md) · [Evidence and verification](../evidence/README.md)

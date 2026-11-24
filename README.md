@@ -26,7 +26,7 @@ The figures come from the Zenith website tracker. All five featured homepages re
 
 ## ChatGPT Sites portfolio
 
-The workspace lists **156 site projects**, including variants, and **135 active projects listed as public with a live URL**. The gallery documents five selected builds with screenshots, live links, and visitor workflows.
+The workspace lists **156 site projects**, including variants, and **135 active projects listed as public with a live URL**. The gallery shows 11 public websites with screenshots and live links, including five visitor walkthroughs.
 
 [Explore the ChatGPT Sites gallery](chatgpt-sites-portfolio/README.md)
 

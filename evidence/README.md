@@ -14,7 +14,7 @@ Checked on **24 November 2026** using public HTTPS GET requests. Each featured h
 
 ## ChatGPT Sites evidence
 
-The [ChatGPT Sites gallery](../chatgpt-sites-portfolio/README.md) records the workspace project counts, screenshots, and five public homepage checks. Workspace counts and the Zenith domain tracker have different scopes and may overlap.
+The [ChatGPT Sites gallery](../chatgpt-sites-portfolio/README.md) records the workspace project counts, screenshots, and 11 public homepage checks. Workspace counts and the Zenith domain tracker have different scopes and may overlap.
 
 ## How to interpret the results
 
