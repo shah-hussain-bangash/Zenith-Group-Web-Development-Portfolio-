@@ -57,7 +57,7 @@ The [Dubai Property Development case study](../case-studies/02-property-developm
 
 ## Property enquiry interface
 
-The [Dubai Property Development case study](../case-studies/02-property-development/README.md#property-enquiry-interface) includes an Elementor excerpt of the Six Senses Residences enquiry section and WhatsApp contact button.
+The [Dubai Property Development case study](../case-studies/02-property-development/README.md#property-enquiry-interface) includes Elementor excerpts of the Six Senses Residences enquiry section, WhatsApp button, and Forminator shortcode.
 
 ## ChatGPT Sites evidence
 

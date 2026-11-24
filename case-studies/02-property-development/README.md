@@ -52,7 +52,11 @@ The Elementor capture for [Six Senses Residences](https://dubaipropertydevelopme
 
 [![Six Senses Residences enquiry section in Elementor with guidance and a WhatsApp button](../../evidence/screenshots/six-senses-enquiry-elementor.webp)](../../evidence/screenshots/six-senses-enquiry-elementor.webp)
 
-This capture documents the layout. Form fields are inside the embed, and submission and delivery are outside the scope of this evidence.
+The Elementor Shortcode widget references Forminator form **25059** via `[forminator_form id="25059"]`.
+
+[![Elementor Shortcode widget referencing Forminator form 25059](../../evidence/screenshots/six-senses-forminator-shortcode.webp)](../../evidence/screenshots/six-senses-forminator-shortcode.webp)
+
+The captures document the enquiry layout and the form reference. Rendering, submission, and delivery require a separate functional check.
 
 ## Google Search Console result
 
