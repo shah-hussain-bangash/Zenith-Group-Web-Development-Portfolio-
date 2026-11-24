@@ -22,7 +22,7 @@ The plot-owner page introduces joint venture and self-development before visitor
 
 ## My contribution
 
-I developed this website as part of Zenith Group’s web development program. I use this site to demonstrate audience-based navigation. Plot-owner education sits on its own page, while current opportunities have a separate destination. That keeps an early-stage landowner from having to search through listings for the proposal process.
+I independently designed and built the Joint Venture Property Dubai website for Zenith Group. I created separate navigation paths for plot owners and investors, built the plot-owner guide and current-offers pages, and placed proposal and contact links where visitors could act on the information they had reviewed.
 
 ## What you can inspect
 
