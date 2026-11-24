@@ -4,6 +4,12 @@
 
 [Open the live site](https://cobrokerrealestatedubai.com/) · [Evidence and verification](../../evidence/README.md)
 
+## Website screenshots
+
+[![Dubai Real Estate Co-Broker homepage with agency registration, agent portal, and partner options](../../evidence/screenshots/broker-collaboration.webp)](https://cobrokerrealestatedubai.com/)
+
+The homepage places agency registration and the returning-agent portal alongside the partner options.
+
 ## Business context
 
 | Audience | Website goal |

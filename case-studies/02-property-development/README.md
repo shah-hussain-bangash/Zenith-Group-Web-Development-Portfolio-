@@ -4,6 +4,12 @@
 
 [Open the live site](https://dubaipropertydevelopment.com/) · [Evidence and verification](../../evidence/README.md)
 
+## Website screenshots
+
+[![Dubai Property Development homepage with cards for local agencies, global agencies, and property investors](../../evidence/screenshots/property-development.webp)](https://dubaipropertydevelopment.com/)
+
+The homepage routes local agencies, global agencies, and property investors to distinct starting points.
+
 ## Business context
 
 | Audience | Website goal |

@@ -4,6 +4,16 @@
 
 [Open the live site](https://jointventurepropertydubai.com/) · [Evidence and verification](../../evidence/README.md)
 
+## Website screenshots
+
+[![Joint Venture Property Dubai homepage with separate plot-owner and investor consultation buttons](../../evidence/screenshots/joint-venture-home.webp)](https://jointventurepropertydubai.com/)
+
+The homepage gives plot owners and investors separate consultation paths.
+
+[![Plot Owner Solutions page with joint venture and self-development entry points](../../evidence/screenshots/plot-owner-options.webp)](https://jointventurepropertydubai.com/plot-owner-joint-venture-dubai/)
+
+The plot-owner page introduces joint venture and self-development before visitors choose how to proceed.
+
 ## Business context
 
 | Audience | Website goal |

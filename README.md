@@ -24,6 +24,12 @@ The figures come from the Zenith website tracker. All five featured homepages re
 | **Invest in Dubai Property** | Investor education and offers navigation | [Case study](case-studies/04-dubai-property-investment/README.md) · [Live site](https://investindubaiproperty.net/) |
 | **Dubai Pooled Investment** | Specialized campaign and cross-site navigation | [Case study](case-studies/05-pooled-investment/README.md) · [Live site](https://dubaipooledinvestment.com/) |
 
+## Screenshots from the live websites
+
+[![Joint Venture Property Dubai homepage with visitor paths for plot owners and investors](evidence/screenshots/joint-venture-home.webp)](case-studies/01-joint-venture/README.md#website-screenshots)
+
+[View all four screenshots and their live pages](evidence/README.md#website-screenshots)
+
 ## ChatGPT Sites portfolio
 
 The workspace lists **156 site projects**, including variants, and **135 active projects listed as public with a live URL**. The gallery shows 11 public websites with screenshots and live links, including five visitor walkthroughs.
