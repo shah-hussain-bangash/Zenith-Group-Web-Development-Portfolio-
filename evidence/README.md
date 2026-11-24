@@ -38,6 +38,10 @@ The captures document the public interface and visible navigation. Enquiry deliv
 
 The [ChatGPT Sites gallery](../chatgpt-sites-portfolio/README.md) records the workspace project counts, screenshots, and 11 public homepage checks. Workspace counts and the Zenith domain tracker have different scopes and may overlap.
 
+## Technical SEO portfolio
+
+The [SEO Portfolio](../seo-portfolio/README.md#technical-seo-audits) summarizes the desktop audit tracker, its recorded checks, and the scope of the scores.
+
 ## Website ranking tracker
 
 The [website ranking catalog](../google-search-visibility/website-ranking-catalog.md) preserves the 91 tracker entries and their recorded positions. The Search Console evidence below supports the two featured results.

@@ -4,7 +4,7 @@
 
 I developed websites for Zenith Group across property development, investment, and broker collaboration. The case studies and ChatGPT Sites gallery show how I turn business requirements into public websites with clear navigation and enquiry paths.
 
-[Featured case studies](#featured-case-studies) · [ChatGPT Sites gallery](chatgpt-sites-portfolio/README.md) · [Google Search visibility](google-search-visibility/README.md) · [Program scope](website-index/README.md) · [Evidence and verification](evidence/README.md)
+[Featured case studies](#featured-case-studies) · [ChatGPT Sites gallery](chatgpt-sites-portfolio/README.md) · [SEO Portfolio](seo-portfolio/README.md) · [Google Search visibility](google-search-visibility/README.md) · [Program scope](website-index/README.md) · [Evidence and verification](evidence/README.md)
 
 ## Program at a glance
 
@@ -37,6 +37,8 @@ The workspace lists **156 site projects**, including variants, and **135 active 
 [Explore the ChatGPT Sites gallery](chatgpt-sites-portfolio/README.md)
 
 ## Google Search visibility
+
+The [SEO Portfolio](seo-portfolio/README.md) brings together dated Search Console results, desktop audit coverage, and the website ranking catalog.
 
 [Zenith Developer](google-search-visibility/README.md#zenith-developer) recorded **1,061 clicks and 84,366 impressions** in Google Web Search from **22 August to 21 November 2026**. The evidence includes the workbook figures and a six-month dashboard screenshot.
 

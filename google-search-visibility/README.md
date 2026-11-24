@@ -2,6 +2,8 @@
 
 **Zenith Group web development portfolio**
 
+[SEO Portfolio](../seo-portfolio/README.md) · [Website ranking catalog](website-ranking-catalog.md)
+
 I tracked Google Search visibility across Zenith's property and investment websites. This snapshot summarizes entries in the SEO tracker and shows how to validate the recorded positions against Google Search Console.
 
 | Tracker metric | Count |
