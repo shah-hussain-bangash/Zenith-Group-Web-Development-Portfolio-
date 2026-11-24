@@ -42,6 +42,8 @@ The [ChatGPT Sites gallery](../chatgpt-sites-portfolio/README.md) records the wo
 
 The [Dubai Property Development case study](../case-studies/02-property-development/README.md#google-search-console-result) includes the six-month Web Search report screenshot, site-wide metrics, and search-query figures.
 
+The [Zenith Developer result](../google-search-visibility/README.md#zenith-developer) includes exact three-month click and impression totals, plus a six-month dashboard screenshot.
+
 ## How to interpret the results
 
 - **Delivery status** comes from the website tracker.
