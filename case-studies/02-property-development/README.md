@@ -46,6 +46,14 @@ The homepage presents separate agency and investor entry points. The main menu a
 
 **Review question:** Can an agency reach its dedicated page directly from the homepage, and can an investor identify a separate route?
 
+## Property enquiry interface
+
+The Elementor capture for [Six Senses Residences](https://dubaipropertydevelopment.com/six-senses-residences/) shows the **Send Enquiry** section, with enquiry guidance, a WhatsApp contact button, and an embedded form placeholder in the editor.
+
+[![Six Senses Residences enquiry section in Elementor with guidance and a WhatsApp button](../../evidence/screenshots/six-senses-enquiry-elementor.webp)](../../evidence/screenshots/six-senses-enquiry-elementor.webp)
+
+This capture documents the layout. Form fields are inside the embed, and submission and delivery are outside the scope of this evidence.
+
 ## Google Search Console result
 
 Dubai Property Development recorded **4,097 clicks and 874,403 impressions** in Google Web Search. The export dated **24 November 2026** covers **22 July 2025 to 21 November 2026**.
