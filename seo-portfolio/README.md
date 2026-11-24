@@ -22,6 +22,8 @@ The figures describe property-level performance over the listed periods. Dubai P
 
 The query figures cover all pages for each property in the corresponding export. Average position is measured over that reporting period.
 
+[Zenith Developer WordPress and Elementor evidence](../evidence/README.md#zenith-developer-wordpress-contribution) documents published Elementor pages attributed to Shah and shows the editor for the investment page.
+
 ### Zenith Developer 28-day comparison
 
 From **25 October to 21 November 2026**, Zenith Developer recorded **30,377 impressions** and **336 clicks**. Compared with **27 September to 24 October 2026**, impressions increased **48.2%** and clicks increased **10.9%**. CTR declined from **1.48% to 1.11%**. The comparison was calculated from the daily export and measures changes at the property level.

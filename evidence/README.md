@@ -34,6 +34,23 @@ The homepage places agency registration and the returning-agent portal alongside
 
 The captures document the public interface and visible navigation. Enquiry delivery, implementation ownership, and business outcomes require separate records.
 
+## Zenith Developer WordPress contribution
+
+The WordPress Pages list for `zenithdeveloper.com` attributes these published Elementor pages to **Shah**.
+
+| Published page | WordPress publication date |
+| --- | --- |
+| Dubai Investment Ready Properties | 30 March 2026 |
+| Dubai Investors Property Partnerships | 1 April 2026 |
+
+[![WordPress Pages rows showing page titles, author Shah, and publication dates](screenshots/zenith-wordpress-page-authorship.webp)](screenshots/zenith-wordpress-page-authorship.webp)
+
+The Elementor editor shows the hero layout for **Dubai Investment Ready Properties**, including its page heading, skyline image, and desktop preview controls.
+
+[![Elementor editor showing the Dubai Investment Ready Properties hero layout](screenshots/zenith-elementor-investment-page.webp)](screenshots/zenith-elementor-investment-page.webp)
+
+The excerpts show the WordPress author field, publication dates, and editor view. [Zenith Developer Search Console results](../google-search-visibility/README.md#zenith-developer) report property-wide search performance.
+
 ## ChatGPT Sites evidence
 
 The [ChatGPT Sites gallery](../chatgpt-sites-portfolio/README.md) records the workspace project counts, screenshots, and 11 public homepage checks. Workspace counts and the Zenith domain tracker have different scopes and may overlap.

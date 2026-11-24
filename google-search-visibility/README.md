@@ -33,6 +33,8 @@ The source heading says 78 domains ranked. A count of the supplied rows yields 7
 
 Property clicks and impressions are summed from the daily export. Property average position is estimated using impression-weighted daily values. The homepage row covers all queries for that URL. The featured query row covers the entire property.
 
+[Zenith Developer WordPress and Elementor evidence](../evidence/README.md#zenith-developer-wordpress-contribution) shows the author, publication dates, and Elementor layout for selected website work.
+
 ### Six-month dashboard
 
 The six-month Google Web Search view captured on **24 November 2026** shows approximately **2,230 clicks**, **187,000 impressions**, and **1.2% CTR**. This is a longer reporting window than the workbook above.
