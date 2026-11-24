@@ -51,6 +51,10 @@ The Elementor editor shows the hero layout for **Dubai Investment Ready Properti
 
 The excerpts show the WordPress author field, publication dates, and editor view. [Zenith Developer Search Console results](../google-search-visibility/README.md#zenith-developer) report property-wide search performance.
 
+## Dubai Property Development WordPress contribution
+
+The [Dubai Property Development case study](../case-studies/02-property-development/README.md#wordpress-contribution-evidence) shows three dated WordPress pages attributed to Shah, their Rank Math scores, and an Elementor layout excerpt for the investment guide.
+
 ## ChatGPT Sites evidence
 
 The [ChatGPT Sites gallery](../chatgpt-sites-portfolio/README.md) records the workspace project counts, screenshots, and 11 public homepage checks. Workspace counts and the Zenith domain tracker have different scopes and may overlap.

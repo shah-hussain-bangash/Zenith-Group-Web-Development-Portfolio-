@@ -20,6 +20,22 @@ The homepage routes local agencies, global agencies, and property investors to d
 
 I developed this website as part of Zenith Group’s web development program. I use this site to demonstrate entry points by audience on a broader corporate platform. Keeping those links visible alongside service navigation helps visitors choose by role or by the information they need.
 
+## WordPress contribution evidence
+
+The WordPress Pages list for Dubai Property Development attributes these Elementor pages to **Shah**. The publication dates and Rank Math scores are recorded in the Pages list.
+
+| Published page | Publication date | Rank Math score |
+| --- | --- | ---: |
+| Dubai Off-Plan vs Ready Property | 27 February 2026 | 90/100 |
+| Dubai Pooled Property Guide | 4 February 2026 | 91/100 |
+| Dubai Pooled Real Estate Investment | 3 February 2026 | 94/100 |
+
+[![WordPress Pages excerpt showing three pages attributed to Shah, with dates and Rank Math scores](../../evidence/screenshots/dubai-property-wordpress-authorship.webp)](../../evidence/screenshots/dubai-property-wordpress-authorship.webp)
+
+An Elementor editor capture shows the layout of **Benefits of Real Estate Investment Dubai – Complete Guide**, including the page heading, section structure, and sidebar cards. This is a different page from the three entries listed above.
+
+[![Elementor editor showing the investment guide layout and section structure](../../evidence/screenshots/dubai-property-elementor-investment-guide.webp)](../../evidence/screenshots/dubai-property-elementor-investment-guide.webp)
+
 ## What you can inspect
 
 The homepage presents separate agency and investor entry points. The main menu also links to property, investment, development services, analysis, and company information. The local agency entry leads to a dedicated page.

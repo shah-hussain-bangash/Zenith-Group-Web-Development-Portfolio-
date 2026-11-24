@@ -28,6 +28,8 @@ The query figures cover all pages for each property in the corresponding export.
 
 From **25 October to 21 November 2026**, Zenith Developer recorded **30,377 impressions** and **336 clicks**. Compared with **27 September to 24 October 2026**, impressions increased **48.2%** and clicks increased **10.9%**. CTR declined from **1.48% to 1.11%**. The comparison was calculated from the daily export and measures changes at the property level.
 
+[Dubai Property Development WordPress evidence](../case-studies/02-property-development/README.md#wordpress-contribution-evidence) shows the author and publication date for three pages, alongside their Rank Math scores.
+
 ## Technical SEO audits
 
 The desktop SEO tracker lists **68 unique domains**. It contains **179 recorded page scores across 65 domains**, with a **median score of 94** and a **range of 88 to 95**. The tracker does not identify the scoring tool, test dates, or individual page URLs, so the scores are reported as recorded desktop audit scores.
